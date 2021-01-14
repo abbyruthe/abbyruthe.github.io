@@ -8,29 +8,27 @@ redirect_from:
   - /about.html
 ---
 Skills
-=====
-- Python 
-  - ~2 years
-- R 
-  - ~2 years
-- Java 
-  - ~1 year
-- LATEX 
-  - ~1 year
-- PANDAS 
-  - ~1 year
-- SQL 
-  - <1 year
-- GIT (in terminal) 
-  - <1 year
-- JavaScript 
-  - <1 year
 
+=====
+
+| Language          | Proficiency   |  Proficiency  |                                                          
+| --------          | ------------- | ------------- |
+| Python            | ~2 years      | Intermediate  |
+| R                 | ~2 years      | Intermediate  |
+| Java              | ~1 year       | Intermediate  |
+| PANDAS*           | ~6 months     | Intermediate  |
+| TensorFlow*       | ~6 months     | Beginner      |
+| SQL               | ~6 months     | Beginner      |
+| GIT (in terminal) | ~3 months     | Intermediate  |
+| JavaScript        | ~1 month      | Beginner      |
+/* package in Python
 
 Interests
 ===== 
+
 Importance of Data
 ====
+
 I am an individual who wants to make the world a better place. Data is what helps distinguish between true and false in situations that otherwise may seem uncertain. This is why I have dedicated countless hours to reading and learning about manipulating, cleaning, and utilizing data in the classroom as well in real-world situations. 
 
 My projects and experience display my passion for learning and growing as an individual whether individually or with others.
