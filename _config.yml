@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Abby Estep"
-  avatar           : "profile.png"
-  bio              : "Data scientist interested an all things ML and AI related"
+  avatar           : "Website Profile Picture.png"
+  bio              : "Data scientist interested an all things ML and AI related and trying to make the world a better place"
   location         : "Mankato, MN"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/abby-estep"
+  linkedin         : "https://www.linkedin.com/in/abby-estep"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
