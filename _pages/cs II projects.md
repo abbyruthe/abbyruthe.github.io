@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Computer Science 2 Projects"
+permalink: /compsciII/
 author_profile: true
 redirect_from:
   - /resume

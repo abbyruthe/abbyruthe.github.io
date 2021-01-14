@@ -3,9 +3,6 @@ main:
     
   - title: "Projects"
     url: /projects/
-    
-  - title: "Interests"
-    url: /interests/
 
   - title: "Experience"
     url: /experience/
@@ -13,4 +10,13 @@ main:
   - title: "Education"
     url: /education/
 
-    
+  - title: "Resumé"
+    url: /resumé/
+
+  - title: "Blog"
+    url: /blog/
+
+  Projects:
+    - title: "Computer Science 2 Projects"
+      url: /compsciII/
+
