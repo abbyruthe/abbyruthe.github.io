@@ -11,8 +11,8 @@ Skills
 
 =====
 
-| Language          | Proficiency   |  Proficiency  |                                                          
-| --------          | ------------- | ------------- |
+| Language          | Time          |  Proficiency  |                                                          
+| :--------:        | :-----------: | :-----------: |
 | Python            | ~2 years      | Intermediate  |
 | R                 | ~2 years      | Intermediate  |
 | Java              | ~1 year       | Intermediate  |
