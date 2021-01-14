@@ -16,7 +16,7 @@ main:
   - title: "Blog"
     url: /blog/
 
-  Projects:
-    - title: "Computer Science 2 Projects"
-      url: /compsciII/
+  # Projects:
+     # title: "Computer Science 2 Projects"
+      # url: /compsciII/
 
