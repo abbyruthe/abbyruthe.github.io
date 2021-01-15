@@ -4,7 +4,7 @@ collection: projects
 type: "Workshop"
 permalink: /projects/comp_sci_I_projects
 venue: "Gustavus Adolphus College"
-date: Spring 2020
+date: 2020
 faculty: "Dr. Melissa Lynn"
 ---
 
