@@ -4,7 +4,7 @@ collection: projects
 type: "Workshop"
 permalink: /projects/comp_sci_II_projects
 venue: "Gustavus Adolphus College"
-date: 2020
+date: 2020-09-01
 faculty: "Dr. Louis Yu"
 ---
 
