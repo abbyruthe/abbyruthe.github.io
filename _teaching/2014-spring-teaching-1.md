@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Comp Sci II"
+collection: projects
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /projects/comp_sci_II_projects
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
