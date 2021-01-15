@@ -1,7 +1,7 @@
 ---
 title: "Computer Science II"
 collection: projects
-type: "Workshop"
+# type: "Workshop"
 permalink: /projects/comp_sci_II_projects
 venue: "Gustavus Adolphus College"
 date: 2020-09-01

@@ -1,10 +1,10 @@
 ---
 title: "Individual Projects"
 collection: projects
-type: "Workshop"
+# type: "Workshop"
 permalink: /projects/individual_projects
-venue: "Gustavus Adolphus College"
-date: 2020-01-01
+# venue: "Gustavus Adolphus College"
+# date: 2020-01-01
 # faculty: "Dr. Melissa Lynn"
 ---
 
