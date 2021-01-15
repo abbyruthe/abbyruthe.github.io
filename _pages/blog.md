@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resumé"
-permalink: /resume/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is where I will include my resume. 
+More to follow shortly.
