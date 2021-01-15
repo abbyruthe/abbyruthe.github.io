@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Securian Financial
+=====
+* Summer 2020: Data Science Intern
+    * Duties: 
+        * Examined depreciation data for automobiles to support a broader project in modeling the exposers created by Guaranteed Asset Protection (GAP) policies while using certain Python libraries to ensure that the data was clean and ready to be utilized in a later ML algorithm.
+        * Designed a small database to ingest monthly extracts of depreciation curves from the the provided data in order to organize the vast array of information to be examined. Leveraging this database, I then conducted an analysis of variation or drift in depreciation forecasts observed over time. 
+        * Completed business related research on the project that I was studying as well as presented my findings and suggestions to a group of senior data scientists at the conclusion of the internship.
+    * Supervisor: Marshall Lagani
+* Summer 2021: Data Science Intern
+    * Duties: Planning to build a convolutional neural network (CNN) for image recognition of vehicles.
+    * Supervisor: Marshall Lagani & Doug Armstrong
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Gustavus Adolphus College Career Center
+=====
+* Summer/Fall 2020: Data Science Microintern
+    * Duties:
+        * Cleaned data from surveys and merged to compare values using Python and PANDAS.
+        * Created a presentation displaying pre- and post-test results using easy-to-read graphs and tables to help those making the decision for the funds of the course more confident.
+        * Made suggestions on what to include and omit for the next time that course was offered as well as updated list of survey questions for easier analysis. 
+    * Supervisor: Cynthia Favre
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Gustavus Adolphus College Chaplain's Office
+=====
+* Fall 2019: Data science Microintern
+    * Duties:
+        * Compared pre- and post-test survey results to determine the students satisfaction of the camp that occurred in Summer 2019. 
+        * Presented to donors the findings of the data and helped the company make an informed decision on their allotment of donations prior to the next summer. 

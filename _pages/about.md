@@ -11,18 +11,6 @@ Skills
 
 =====
 
-| Language          | Time          |  Proficiency  |                                                          
-| :--------:        | :-----------: | :-----------: |
-| Python            | ~2 years      | Intermediate  |
-| R                 | ~2 years      | Intermediate  |
-| Java              | ~1 year       | Intermediate  |
-| PANDAS*           | ~6 months     | Intermediate  |
-| TensorFlow*       | ~6 months     | Beginner      |
-| SQL               | ~6 months     | Beginner      |
-| GIT (in terminal) | ~3 months     | Intermediate  |
-| JavaScript        | ~1 month      | Beginner      |
-\* package in Python
-
 |  Language | Time  | Proficiency  |
 |---|---|---|
 | Python  |  ~2 years |  Intermediate |
@@ -33,6 +21,7 @@ Skills
 |  SQL |  ~6 months |  Beginner |
 | GIT (in terminal)  |  ~3 months | Intermediate  |
 |  JavaScript |  ~1 month | Beginner  |
+\* package in Python
 
 Interests
 ===== 
