@@ -14,39 +14,39 @@ Computer Science II was an introduction to Assembly language as well as Java pro
 This first project was practice for Assembly lanuage that we learned for the first month of class. SLIM is a simplified computer that we are running simple Assembly commands through. The tasks were mostly rewriting Python functions (from the previous course Computer Science I) into Assembly code. 
 
 More information can be found on this below.
-https://github.com/abbyruthe/cs_2_project_1_assembly
+<a href = "https://github.com/abbyruthe/cs_2_project_1_assembly">Here.</a>
 
 ## **Project 2**  
 *Conditionals and Loops*  
 This was our first Java based project that was composed of 4 different tasks to be done using conditional statements along with basic arithmetic operations and randomized functions.
 
 More information on this project can be found below.
-https://github.com/abbyruthe/cs_2_project2_conditionals_loops
+<a href = "https://github.com/abbyruthe/cs_2_project2_conditionals_loops">Here.</a>
 
 ## **Project 3**
 *N-Body Simulation*  
 This was a project that was based on simulating the gravitational pull of large bodies (such as planets or suns). We were asked to program the equations for how the N-bodies would react to each other basic off of their mass and then we make a simulation of it. 
 
 More information on this project can be seen below. 
-https://github.com/abbyruthe/cs_2_project_3_n_body
+<a href = "https://github.com/abbyruthe/cs_2_project_3_n_body">Here.</a>
 
 ## **Project 4** 
 *Recursive Graphics*  
 This project was a relatively quick one that dealt with drawing Sierpinski's triangle using recursion. 
 
 More information on this can be seen below.
-https://github.com/abbyruthe/cs_2_project_4_sierpinski
+<a href = "https://github.com/abbyruthe/cs_2_project_4_sierpinski">Here.</a>
 
 ## **Project 5**  
 *Global Sequence Alignment*  
 This project utilized a recursive and dynamic programming approach to solving for how similar two strings of DNA are to each other. We used "top-down" or memoization and "bottom-up" approach and looked at the differences between the run-time and the memory usage of both. 
 
 More information can be found on this project below.
-https://github.com/abbyruthe/cs_2_project_5_global_sequence_alignment
+<a href = "https://github.com/abbyruthe/cs_2_project_5_global_sequence_alignment">Here.</a>
 
 ## **Project 6**  
 *Guitar Hero*  
 This project was the main project that dealt with object-oriented programming. We made 3 classes that implemented each other as well as an interface. 
 
 For more information please look below. 
-https://github.com/abbyruthe/cs_2_project_6_guitar_hero
+<a href = "https://github.com/abbyruthe/cs_2_project_6_guitar_hero">Here.</a>
