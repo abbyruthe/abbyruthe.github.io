@@ -31,15 +31,13 @@ More information about the description of the project or the code can be seen in
 *Crytanalysis*  
 Project 4 consisted of learning about ciphers. This lab was an introduction to crytanalysis and it included making simple functions for completing the task of deciphering sentences. 
 
-More information on the actual project can be seen below as well as the code.
-<a href = "https://github.com/abbyruthe/cs_1_project4_cryptanalysis">Here.</a>
+More information on the actual project can be found <a href = "https://github.com/abbyruthe/cs_1_project4_cryptanalysis">here</a> as well as the code.
 
 ## **Project 5**  
 *Not-So-Elementary Statistics*  
 Project 5 was learning how to write functions that could usually be found in the Math module in Python such as finding the maximum, minimum, average, standard deviation, count value, and the mode of an array of data. 
 
-More information concerning the description of the project and the code for this can be seen below.
-<a href = "https://github.com/abbyruthe/cs_1_project5_statistics">Here.</a>
+More information concerning the description of the project and the code for this can be seen <a href = "https://github.com/abbyruthe/cs_1_project5_statistics">here.</a>.
 
 ## **Project 6**  
 *Your IMDb*  
