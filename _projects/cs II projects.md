@@ -44,5 +44,4 @@ More information can be found on this project
 *Guitar Hero*  
 This project was the main project that dealt with object-oriented programming. We made 3 classes that implemented each other as well as an interface. 
 
-For more information please look  
-<a href = "https://github.com/abbyruthe/cs_2_project_6_guitar_hero">here.</a>
+For more information please look <a href = "https://github.com/abbyruthe/cs_2_project_6_guitar_hero">here.</a>
