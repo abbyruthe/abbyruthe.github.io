@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Skills
 
-<img src="/images/proficiency_chart.jpg" alt="proficiency chart of skills" >
+<img src="/images/proficiency_chart.png" alt="proficiency chart of skills" >
 
 ## Interests
 
