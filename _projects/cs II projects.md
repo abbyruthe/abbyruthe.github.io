@@ -23,7 +23,7 @@ More information on this project can be found <a href = "https://github.com/abby
 
 ## **Project 3**
 *N-Body Simulation*  
-This was a project that was based on simulating the gravitational pull of large bodies (such as planets or suns). We were asked to program the equations for how the N-bodies would react to each other basic off of their mass and then we make a simulation of it. 
+This was a project that was based on simulating the gravitational pull of large bodies (such as planets or suns). We were asked to program the equations for how the N-bodies would react to each other based off of their mass and then we make a simulation of it. 
 
 Click <a href = "https://github.com/abbyruthe/cs_2_project_3_n_body">here</a> to learn more!
 
