@@ -3,8 +3,8 @@ title: "Computer Science 2"
 collection: projects
 # type: "Workshop"
 permalink: /projects/comp_sci_II_projects
-venue: "Gustavus Adolphus College"
-date: 2020-09-01
+venue: "Gustavus Adolphus College - Fall 2020"
+# date: 2020-09-01
 ---
 
 Computer Science II was an introduction to Assembly language as well as Java programming. This course focused heavily on the basics of programming such as loops and conditionals, as well as object-oriented programming. All six of these projects were from a Princeton CS course and were slightly altered for what we were learning in class. The professor for this course was Dr. Louis Yu. 

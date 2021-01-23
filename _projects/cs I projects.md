@@ -3,8 +3,8 @@ title: "Computer Science 1"
 collection: projects
 # type: "Workshop"
 permalink: /projects/comp_sci_I_projects
-venue: "Gustavus Adolphus College"
-date: 2020-02-01
+venue: "Gustavus Adolphus College - Spring 2020"
+# date: 2020-02-01
 ---
 
 This was an introduction to Python course that touched on the basics of different concepts of computer science and discussed topics like recursion, object-oriented programming, the basics of images, and more. These concepts are convered in the projects seen below. The instructors for this course are Dr. Melissa Lynn, Professor Jeff Englehardt, and Dr. Michael Hvidsten.
