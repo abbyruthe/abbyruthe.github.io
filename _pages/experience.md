@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Securian Financial
+## Securian Financial
 
 * Summer 2020: Data Science Intern
     * **Responsibilities**: 
@@ -21,7 +21,7 @@ redirect_from:
     * **Responsibilities**: Planning to build a convolutional neural network (CNN) for image recognition of vehicles.
     * **Supervisors**: Marshall Lagani & Doug Armstrong
 
-### Gustavus Adolphus College Career Center
+## Gustavus Adolphus College Career Center
 
 * Summer/Fall 2020: Data Science Microintern
     * **Responsibilities**:
@@ -30,7 +30,7 @@ redirect_from:
         * Made suggestions on what to include and omit for the next time that course was offered as well as updated list of survey questions for easier analysis. 
     * **Supervisor**: Cynthia Favre
 
-### Gustavus Adolphus College Chaplain's Office
+## Gustavus Adolphus College Chaplain's Office
 
 * Fall 2019: Data science Microintern
     * **Responsibilities**:
