@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Abby Estep"
 description              : &description "A hard-working and motivated individual interested in ML and data science"
